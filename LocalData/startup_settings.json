@@ -1,6 +1,6 @@
 {
     "GraphicsTextureQuality": 2,
-    "DisplayWindowType": 1,
+    "DisplayWindowType": 0,
     "DisplayFullscreenWidth": 1920,
     "DisplayFullscreenHeight": 1080,
     "DisplayWindowedWidth": 1920,
