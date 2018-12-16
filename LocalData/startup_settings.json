@@ -1,11 +1,11 @@
 {
     "GraphicsTextureQuality": 2,
-    "DisplayWindowType": 0,
+    "DisplayWindowType": 1,
     "DisplayFullscreenWidth": 1920,
     "DisplayFullscreenHeight": 1080,
     "DisplayWindowedWidth": 1920,
     "DisplayWindowedHeight": 1080,
     "DisplayRefreshRate": 0,
-    "DisplayVSync": 1,
+    "DisplayVSync": 0,
     "DisplayGamma": 50
 }
