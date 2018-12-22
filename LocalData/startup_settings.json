@@ -6,6 +6,6 @@
     "DisplayWindowedWidth": 1920,
     "DisplayWindowedHeight": 1080,
     "DisplayRefreshRate": 0,
-    "DisplayVSync": 0,
+    "DisplayVSync": 1,
     "DisplayGamma": 50
 }
